@@ -1,7 +1,8 @@
 # Jomi-O
 Recently started joined an open source project. Open Healthcare Network.
-High School Student
-Learning to become a better programmer.
+HI! I am Jomi a high school student with a bit of programming knowledge. Gotta keep learning!
+
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
