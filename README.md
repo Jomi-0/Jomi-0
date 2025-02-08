@@ -1,5 +1,5 @@
 # Jomi-O
-Recently started joined an open source project. Open Healthcare Network.
+Recently joined an open source project. Open Healthcare Network.
 HI! I am Jomi a high school student with a bit of programming knowledge. Gotta keep learning!
 
 
